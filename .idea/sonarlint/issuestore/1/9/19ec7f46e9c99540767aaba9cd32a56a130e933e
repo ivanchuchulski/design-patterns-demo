@@ -1,0 +1,12 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "films" 3 times.(Û«ì
+b
+java:S1192"GDefine a constant instead of duplicating this literal "testdb" 4 times.(§™•–ÿÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(´€™ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Žÿ›‡øÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(æ§”â
+V	java:S125>"<This block of commented-out lines of code should be removed.(Ô»ò¯ýÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(üüÝÁùÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(µèéð
